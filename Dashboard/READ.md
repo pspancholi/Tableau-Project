@@ -20,12 +20,6 @@ The dashboard is designed to help stakeholders identify market trends, top-perfo
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Real Estate Sales Dashboard](Tableau.jpg)
-
----
-
 ## 🚀 Features
 
 ### 📈 Year Over Year Sales
